@@ -1,5 +1,5 @@
 # Campus-Access-Management-System <br>
-This is a complete web application for a university management systewm to keep record of their campus access.
+This is a complete web application for a university management systewm to keep record of their campus access. <br>
 Download all the node modules inside client and server directories <br>
 Create .env file inside the server directory. Add password, host, user and database inside it. <br>
 Run the server using the command "node server.js" inside server directory. <br>
