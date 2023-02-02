@@ -1,5 +1,6 @@
 # Campus-Access-Management-System <br>
-This is a complete web application for a university management to keep record of their campus access system. <br>
+This is a complete client server web application for a university management to keep record of their campus access system. <br>
+This application is build using node js, express js, mysql, react, css etc.
 # Modules <br>
 Download all the node modules inside client and server directories <br>
 The modules can be download using the command "npm i modulename". <br>
@@ -14,6 +15,6 @@ The adding.js file will add some random student, faculty members and staff emplo
 # Run the application
 Run the server using the command "node server.js" inside server directory. <br>
 Run the client side using the command "npm start" inside client directory. You'll be redirected to the signup page. <br>
-# Functionalities
-The clients i.e., students,faculty or staff members can view their access status, can request visitor access, vehicle access etc.
+# Main functionalities
+The clients i.e., students,faculty or staff members can view their access status, can request visitor access, vehicle access etc. <br>
 Admin can block and allow the access of all other actors.
