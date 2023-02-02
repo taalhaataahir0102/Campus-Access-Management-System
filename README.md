@@ -1,12 +1,12 @@
 # Campus-Access-Management-System <br>
 This is a complete client server web application for a university management to keep record of their campus access system. <br>
-This application is build using node js, express js, mysql, react, css etc.
+This application is build using node js, express js, mysql, react, css etc. <br>
 # Modules <br>
 Download all the node modules inside client and server directories <br>
 The modules can be download using the command "npm i modulename". <br>
 The server modules are mysql, cors, express,bcrypt, dotenv and jsonwebtoken. Download these modules inside the server directory. <br>
 For client modules type "npm i react-scripts" inside the client directory. <br>
-#.env file
+#dotenv file
 Create .env file inside the server directory. This file will contain the sensitive information about the database which you do not want others to know. Add password, host, user and database inside it. <br>
 # Database <br>
 Create the database tables using "node createtables.js" command inside the server directory. <br>
