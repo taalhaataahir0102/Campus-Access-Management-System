@@ -6,7 +6,7 @@ Download all the node modules inside client and server directories <br>
 The modules can be download using the command "npm i modulename". <br>
 The server modules are mysql, cors, express,bcrypt, dotenv and jsonwebtoken. Download these modules inside the server directory. <br>
 For client modules type "npm i react-scripts" inside the client directory. <br>
-#dotenv file
+# dotenv file <br>
 Create .env file inside the server directory. This file will contain the sensitive information about the database which you do not want others to know. Add password, host, user and database inside it. <br>
 # Database <br>
 Create the database tables using "node createtables.js" command inside the server directory. <br>
